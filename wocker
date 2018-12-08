@@ -6,7 +6,7 @@ RED=31
 USER=wocker
 DOCROOT=/var/www/wordpress
 
-image='bg77whale/wocker:nginx-php72'
+image='big77whale/wocker:nginx-php72'
 cname=''
 ports=''
 cid=''
