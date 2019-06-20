@@ -1,12 +1,12 @@
 #!/bin/bash -e
 
 WOCKER_VERSION='1.3.1'
-WORDPRESS_VERSION='5.0'
+WORDPRESS_VERSION='5.2.2'
 RED=31
 USER=wocker
 DOCROOT=/var/www/wordpress
 
-image='big77whale/wocker:nginx-php72'
+image='big77whale/wocker:nginx-php73'
 cname=''
 ports=''
 cid=''
